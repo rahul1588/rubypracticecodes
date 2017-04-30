@@ -1,2 +1,2 @@
-# rubypracticecodes
-problem solving in tuby
+# ruby practice codes
+practice problem solving in ruby
